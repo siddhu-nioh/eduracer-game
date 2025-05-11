@@ -1,0 +1,21 @@
+{
+  "name": "eduracer",
+  "version": "1.0.0",
+  "description": "A gamified web-based learning platform for children",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "phaser": "^3.60.0",
+    "tailwindcss": "^3.3.0",
+    "chart.js": "^4.3.0"
+  },
+  "devDependencies": {
+    "vite": "^4.3.9",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.23"
+  }
+}
